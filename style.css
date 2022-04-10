@@ -22,3 +22,15 @@ div {
     padding-left: 20px;
     ;
 }
+
+.aknoyon {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
