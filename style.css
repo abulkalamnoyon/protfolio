@@ -15,7 +15,7 @@ section {
 }
 
 .width-half img {
-    width: 100%;
+    width: 80%;
 }
 
 div {
@@ -33,4 +33,16 @@ a {
     color: white;
     padding: 10px 20px;
     margin-top: 20px;
+    border-radius: 10px;
+}
+
+.n2 {
+    height: auto;
+    width: 100px;
+}
+
+.top-banner {
+    background-image: url(site1.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
